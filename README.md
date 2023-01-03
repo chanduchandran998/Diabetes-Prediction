@@ -1,10 +1,9 @@
-- 👋 Hi, I’m Chandu Chandran
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Artificial Intelligence
-- 💞️ I’m looking to collaborate on me
-- 📫 How to reach me chanduchandran998@gmail.com
+Hi guys! I am Chandu Chandran. 
+I work in the field of Data Science and Machine Learning. 
+It all started with my curiosity to learn about Artificial Intelligence and the ability of AI to solve several Real Life Problems. 
+I worked on several Machine Learning & Deep Learning projects involving Computer Vision. 
+I am on this journey to empower as many students & working professionals as possible with the knowledge of Machine Learning and Artificial Intelligence.
 
-<!---
-chanduchandran998/chanduchandran998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+# Diabetes-Prediction
+A project that predicts whether a person is suffering from diabetes or not.
